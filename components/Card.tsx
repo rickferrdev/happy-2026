@@ -34,7 +34,7 @@ export const Card: React.FC<CardProps> = ({ data }) => {
                 {data.title}
             </h3>
 
-            <p className="text-sm leading-relaxed text-slate-600 group-hover:text-slate-700">
+            <p className="text-sm leading-relaxed text-slate-600 group-hover:text-slate-700 whitespace-pre-line">
                 {data.message}
             </p>
 
