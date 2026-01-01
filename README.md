@@ -44,7 +44,7 @@ Follow the steps below to run the project on your local machine:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/happy-2026.git
+git clone https://github.com/rickferrdev/happy-2026.git
 cd happy-2026
 
 ```
